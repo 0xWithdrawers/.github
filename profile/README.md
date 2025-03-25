@@ -11,7 +11,7 @@ All our reports are publicly available and aim to help developers and users alik
 
 | | Date | Project | Platform | Folder Link |
 |----|-------|---------|----------|-------------|
-|<img src="/images/inheritable-smart-contract-wallet.webp" width="75" height="75"> | 2025/03    | Inheritable Smart Contract Wallet      | Cyfrin (CodeHawks) | [View Report](./2025/03/inheritable-smart-contract-wallet) |
+|<img src="./images/inheritable-smart-contract-wallet.webp" width="75" height="75"> | 2025/03    | Inheritable Smart Contract Wallet      | Cyfrin (CodeHawks) | [View Report](./2025/03/inheritable-smart-contract-wallet) |
 
 More coming soon...
 
